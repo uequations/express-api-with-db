@@ -1,2 +1,2 @@
-# express-api
+# express-api-with-db
 Express Node.js API template
